@@ -1,9 +1,4 @@
--- ============================================================
--- FILE       : database.sql
--- PROJECT    : Gym Management System
--- AUTHOR     : Haroon Ahmad (2024-AG-6208)
--- COURSE     : CS-412 Visual Programming
--- UNIVERSITY : University of Agriculture Faisalabad
+
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS GymDB;
