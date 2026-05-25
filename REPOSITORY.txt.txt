@@ -1,10 +1,5 @@
 GIT REPOSITORY LINK
 ===================
-Project: Gym Management System
-Student: Haroon Ahmad
-Reg No:  2024-AG-6208
-Course:  CS-412 Visual Programming
-University: University of Agriculture Faisalabad
 
 GitHub Repository URL:
 https://github.com/HaroonAhmad15/Gym-Management-System
