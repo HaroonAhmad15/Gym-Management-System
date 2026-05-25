@@ -1,10 +1,5 @@
 # Gym Management System — Deployment Guide
 
-**Student:** Haroon Ahmad
-**Reg No:** 2024-AG-6208
-**Course:** CS-412 Visual Programming
-**University:** University of Agriculture Faisalabad
-
 ## System Requirements
 
 - Operating System: Windows 7 SP1 or later (64-bit)
