@@ -1,11 +1,5 @@
 # Gym Management System
 
-## Project Information
-- **Student:** Haroon Ahmad
-- **Reg No:** 2024-AG-6208
-- **Course:** CS-412 Visual Programming
-- **University:** University of Agriculture Faisalabad
-
 ## Description
 A complete Gym Management System built with Windows Forms and MySQL database.
 Uses 3-tier architecture with Models, Repository, and Forms layers.
